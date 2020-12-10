@@ -129,6 +129,7 @@ h1 {
     text-decoration: none;
     display: block;
     height: 100%;
+    color: inherit:
 }
 
 .signin a {
